@@ -7,7 +7,7 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../')
 from wx.handle import Handle
 
 urls = (
-    "/wx", "Handle"
+    "/", "Handle"
 )
 
 
